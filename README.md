@@ -52,7 +52,7 @@ region = us-east-1
 
 Install all dependencies.
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Start 
